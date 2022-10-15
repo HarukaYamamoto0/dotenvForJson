@@ -1,5 +1,5 @@
-import { readFileSync } from "fs";
-import { resolve } from "path";
+const { readFileSync } = require("fs");
+const { resolve } = require("path");
 
 function loadJson(path = "config.json") {
   const file = readFileSync(resolve(process.cwd(), path), "utf8");
@@ -13,4 +13,4 @@ function loadJson(path = "config.json") {
   }
 }
 
-export default loadJson;
+module.exports = loadJson;

@@ -1,4 +1,4 @@
-import dotenvForJson from "./index.js";
-dotenvForJson();
+const loadJson = require("./index.js");
+loadJson();
 
 console.log(process.env);

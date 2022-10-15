@@ -1,9 +1,8 @@
 {
   "name": "@zafriel/dotenvforjson",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "A simple json to .env converter",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "node test.js"
