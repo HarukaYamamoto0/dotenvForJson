@@ -1,0 +1,14 @@
+{
+  "name": "@awaka/dotenvForJson",
+  "version": "0.0.1",
+  "description": "A simple json to .env converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": "https://github.com/HarukaYamamoto0/dotenvForJson.git",
+  "author": "HarukaYamamoto0 <antonioalbert344@gmail.com>",
+  "license": "MIT"
+}

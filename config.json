@@ -1,0 +1,8 @@
+{
+  "hello": "word",
+  "testin_with_objects": {
+    "test": "test"
+  },
+  "testin_with_numbers": 9292929,
+  "testin_with_arrays": ["test", "test"]
+}
