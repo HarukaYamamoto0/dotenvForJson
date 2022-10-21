@@ -1,5 +1,5 @@
-## 💻 Sobre o projeto
-Sendo o mais simples possível, esse projeto é apenas um leitor de arquivos json que seta os valores para a variável `process.env`, ainda pretendo fazer que ele consiga ler outros tipos de arquivos
+## 💻 About the project
+Being as simple as possible, this project is just a json file reader that sets the values for the `process.env` variable, I still intend to make it able to read other types of files.
 
 ## Installation
 ```shell
